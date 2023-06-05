@@ -1,9 +1,7 @@
 ---
 permalink: /about
-hidden: true
 last_modified_at: 2023-06-05
-toc: true
 ---
 
-# Page in construction
+## Page in construction
 Testing many stuffs.

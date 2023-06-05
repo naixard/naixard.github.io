@@ -1,7 +1,7 @@
 ---
 permalink: /
-layout: home
+title: "Ko Matias Adrian Kosasih"
+excerpt: "Home page"
 author_profile: true
 ---
-#
-in construction
+## Page in construction

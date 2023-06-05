@@ -19,9 +19,9 @@ locale                   : "en-US"
 title                    : "AK Space"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Ko Matias Adrian Kosasih"
+name                     : &name "Ko Matias Adrian Kosasih"
 description              : "My website (in construction)"
-url                      : # "https://naixard.github.io"
+url                      : "https://naixard.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "naixard/naixard.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Adrian Kosasih"
+  name             : *name
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "Numerical simulation enthusiast."
+  bio              : "Testing personal webpage"
   location         : "Yokohama, Japan"
   email            :
   links:

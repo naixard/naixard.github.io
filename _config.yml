@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "AK Space Station"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Adrian Kosasih"
+name                     : "Ko Matias Adrian Kosasih"
 description              : "My website (in construction)"
 url                      : "https://naixard.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ko Matias Adrian Kosasih"
+  name             : "Adrian Kosasih"
   avatar           : "/assets/images/bio-photo.png"
   bio              : "Numerical simulation enthusiast."
   location         : "Yokohama, Japan"

@@ -1,8 +1,6 @@
 ---
-permalink: /
-title: "Ko Matias Adrian Kosasih"
-excerpt: "Home page"
+title: "Blogs"
+permalink: /blogs/
+layout: posts
 author_profile: true
 ---
-## Page in construction
-I will update this later.

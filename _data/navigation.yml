@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "CV"
-    url: https://naixard.github.io/cv
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    url: /cv/
+  - title: "Blogs"
+    url: /blogs/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

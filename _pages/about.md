@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Senior Engineer at <a href='https://www.dnv.com/'>DNV</a> based in Yokohama, Japan
 

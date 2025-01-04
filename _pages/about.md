@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior Engineer at <a href='https://www.dnv.com/'>DNV</a> based in Yokohama, Japan
+subtitle: Senior Engineer at <a href='https://www.dnv.com/'>DNV</a> based in Yokohama
 
 profile:
   align: right

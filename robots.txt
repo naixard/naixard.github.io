@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://naixard.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://www.adriankosasih.com/sitemap.xml

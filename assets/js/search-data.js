@@ -16,11 +16,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-hello-world",
+        },{id: "post-hello-world-v3-0",
       
-        title: "Hello World",
+        title: "Hello World v3.0",
       
-      description: "This is a test",
+      description: "This is the first blog post for my second try to building a personal website.",
       section: "Posts",
       handler: () => {
         

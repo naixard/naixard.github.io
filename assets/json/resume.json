@@ -1,18 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Ko Matias Adrian Kosasih",
+    "position": "Senior Engineer",
+    "summary": "Adrian is a Senior Engineer at DNV Japan specialized in offshore wind-related numerical simulations with over eight years of experience in floating and fixed offshore wind turbines. He also has extensive experience in industry research of offshore wind turbines in Japan, including establishing floating offshore wind design workflows using various tools and validating the design results using wave tank experiments and real-world data of a demonstration wind turbine.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Yokohama",
+      "countryCode": "JP"
     },
     "profiles": [
       {
@@ -24,13 +17,22 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "DNV AS",
+      "position": "Senior Engineer",
+      "url": "https://www.dnv.com/",
+      "startDate": "2022-10-19",
+      "endDate": "now",
+      "summary": "Responsible for numerical analysis with Sesam and Bladed suite. Also responsible for the support, presales, and training delivery of offshore wind turbine design using Sesam.",
+      "highlights": ["Offshore Wind", "Sesam", "Bladed", "Coupled analysis"]
+    },
+    {
+      "name": "Hitachi Zosen Corporation",
+      "position": "Research Engineer/Researcher",
+      "url": "https://www.kanadevia.com/english/",
+      "startDate": "2016-04-01",
+      "endDate": "2022-10-18",
+      "summary": "Conducted research and development of offshore wind turbines and other offshore structures. Led several R&D projects to develop a new type of offshore structure. Specialized in the coupled analysis of floating offshore wind turbines and other numerical analyses.",
+      "highlights": ["Offshore Wind", "Sesam", "Bladed", "Coupled analysis"]
     }
   ],
   "volunteer": [

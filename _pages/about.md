@@ -20,6 +20,6 @@ Welcome to my website!
 
 I’m Adrian, a Senior Engineer at DNV with over eight years of experience designing offshore wind turbines. My work focuses on offshore wind-related numerical simulations, like hydrodynamic analysis, coupled analysis, and more.
 
-When I’m not immersed in engineering, I enjoy exploring math, diving into computer science, and unwinding with video games.
+When I’m not immersed in engineering, I enjoy exploring computer science, playing with astronomy, and unwinding with video games.
 
 This site is my little corner of the internet—a space to share my thoughts, jot down notes from my recent studies, and maybe, just maybe, create something useful for you. Stick around, and I hope you’ll find something interesting here!

@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-hello-world-v3-0",
+        },{id: "post-my-review-of-deep-work-rules-for-focused-success-in-a-distracted-world",
+      
+        title: "My review of Deep Work: Rules for Focused Success in a Distracted World...",
+      
+      description: "Until recently, I was overwhelmed by social media. Reading this book made me realize how to return the time I lost to the internet.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/book-review-deep-work/";
+        
+      },
+    },{id: "post-hello-world-v3-0",
       
         title: "Hello World v3.0",
       
@@ -30,8 +41,8 @@ ninja.data = [{
     },{id: "news-my-personal-website-is-online",
           title: 'My personal website is online!',
           description: "",
-          section: "News",},{id: "news-finished-reading-deep-work-rules-for-focused-success-in-a-distracted-world-by-cal-newport",
-          title: 'Finished reading “Deep Work: Rules for Focused Success in a Distracted World” by...',
+          section: "News",},{id: "news-finished-reading-deep-work-rules-for-focused-success-in-a-distracted-world-blog-2025-book-review-deep-work-by-cal-newport",
+          title: 'Finished reading [Deep Work: Rules for Focused Success in a Distracted World](/blog/2025/book-review-deep-work/ by...',
           description: "",
           section: "News",},{id: "news-finished-reading-why-we-sleep-the-new-science-of-sleep-and-dreams-by-matthew-walker",
           title: 'Finished reading “Why We Sleep: The New Science of Sleep and Dreams” by...',

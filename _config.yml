@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Adrian's Notes # blog_name will be displayed in your blog page
-blog_description: My little space in the internet
+blog_description: My little space on the internet
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

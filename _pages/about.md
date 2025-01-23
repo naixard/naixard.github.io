@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 ### Welcome to my website!
 
-I’m Adrian, currently a Senior Engineer dealing with numerical analysis of offshore wind at DNV. I am highly interested in numerical analysis and computer graphics.
+I’m Adrian, currently a Senior Engineer at DNV Japan. I am highly interested in numerical analysis and computer graphics.
 
 ### Some things about me:
 - 💻 Numerical software families I'm proficient at: [Sesam](https://sesam.dnv.com/), [Bladed](https://www.dnv.com/software/services/bladed/), [OpenFAST](https://www.nrel.gov/wind/nwtc/openfast.html), [Ansys Aqwa](https://www.ansys.com/products/structures/ansys-mechanical), [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview)

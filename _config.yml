@@ -7,7 +7,7 @@ first_name: Ko Matias Adrian
 middle_name: 
 last_name: Kosasih
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  ou can reach me on LinkedIn, but please note that I might not reply if the message doesn't align with my interests.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Adrian's homepage
 footer_text: >
@@ -85,8 +85,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Oranye Neko # blog_name will be displayed in your blog page
-blog_description: A work in progress
+blog_name: Adrian's Notes # blog_name will be displayed in your blog page
+blog_description: My little space in the internet
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

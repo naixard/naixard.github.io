@@ -16,12 +16,12 @@ selected_posts: true # includes a list of posts marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-### Welcome to my website!
+## Welcome to my website!
 
 I’m Adrian, currently a Senior Engineer at DNV Japan. I am highly interested in numerical analysis and computer graphics.
 
-### Some things about me:
-- 💻 Numerical software families I'm proficient at: [Sesam](https://sesam.dnv.com/), [Bladed](https://www.dnv.com/software/services/bladed/), [OpenFAST](https://www.nrel.gov/wind/nwtc/openfast.html), [Ansys Aqwa](https://www.ansys.com/products/structures/ansys-mechanical), [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview)
+## Some things about me:
+- 💻 Some numerical software I'm proficient at: Sesam, Bladed, OrcaFlex, OpenFAST, Aqwa, Inventor
 - 🎓 Contributed 5 research articles (3 as primary author) to NEDO's [Hibiki project](https://www.nedo.go.jp/floating/)
 - 🗾 As of January 2025, I have been living in Japan for a grand total of 9 years (0.25 years in Kawasaki, 6.5 years in Osaka, and 2.25 years in Yokohama)
 - 📚 I enjoy reading books and unwinding with video games 🎮

@@ -23,7 +23,7 @@
       "startDate": "2022-10-19",
       "endDate": "now",
       "summary": "Responsible for numerical analysis with Sesam and Bladed suite. Also responsible for the support, presales, and training delivery of offshore wind turbine design using Sesam.",
-      "highlights": ["Offshore Wind", "Sesam", "Bladed", "Coupled analysis"]
+      "highlights": ["Offshore Wind", "Sesam", "Bladed", "Numerical Analysis","Software Development"]
     },
     {
       "name": "Hitachi Zosen Corporation",
@@ -32,41 +32,63 @@
       "startDate": "2016-04-01",
       "endDate": "2022-10-18",
       "summary": "Conducted research and development of offshore wind turbines and other offshore structures. Led several R&D projects to develop a new type of offshore structure. Specialized in the coupled analysis of floating offshore wind turbines and other numerical analyses.",
-      "highlights": ["Offshore Wind", "Sesam", "Bladed", "Coupled analysis"]
-    }
-  ],
-  "volunteer": [
+      "highlights": ["Offshore Wind", "Offshore Structures", "Numerical Analysis", "Wave Tank Experiment", "Research and Development"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Association for Innovative Technology on Fishing Ports and Grounds (AITEF)",
+      "position": "Expert Technician",
+      "url": "https://aitef.or.jp/",
+      "startDate": "2020-04-01",
+      "endDate": "2020-08-31",
+      "summary": "Secondment contract (派遣社員) while working in Hitachi Zosen Corporation for a NDA project.",
+      "highlights": ["Computational Fluid Dynamics", "Numerical Analysis", "Research and Development"]
+    },
+    {
+      "name": "JFE Engineering Corporation",
+      "position": "International Internship Program",
+      "url": "https://www.jfe-eng.co.jp/en/",
+      "startDate": "2015-09-01",
+      "endDate": "2015-11-30",
+      "summary": "International internship program for selected university students from South East Asia in the JFE Engineering Corporation in Japan.",
+      "highlights": ["Project Management", "Oil and Gas"]
+    },
+    {
+      "name": "Boston Consulting Group (BCG)",
+      "position": "Summer Business Analyst",
+      "url": "https://www.bcg.com/",
+      "startDate": "2014-07-01",
+      "endDate": "2014-08-31",
+      "summary": "Summer management consulting internship program in BCG Jakarta. I was part of an operational optimization project for one of Indonesia's biggest consumer goods manufacturers.",
+      "highlights": ["Management Consulting"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Indonesia",
+      "location": "Depok, Indonesia",
+      "url": "https://eng.ui.ac.id/en/",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2011-08-01",
+      "endDate": "2015-07-01",
+      "score": "3.86",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Silver Medalist - International Olympiad on Astronomy and Astrophysics (IOAA)",
+      "date": "2011-09-01",
+      "awarder": "IOAA Committee",
+      "url": "https://en.wikipedia.org/wiki/International_Olympiad_on_Astronomy_and_Astrophysics",
+      "summary": "IOAA is an annual event in which high school students from around the world compete against each other, solving theoretical, analytical, and observational problems in the fields of astronomy and astrophysics."
+    },
+    {
+      "title": "Bronze Medalist - International Astronomy Olympiad (IAO)",
+      "date": "2010-10-01",
+      "awarder": "Eurasian Astronomical Society",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_Astronomical_Society",
+      "summary": "IAO is an internationally recognized annual astronomy scientific-educating event for high school students, which includes an intellectual competition between these students."
     }
   ],
   "certificates": [

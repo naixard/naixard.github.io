@@ -16,10 +16,12 @@ selected_posts: true # includes a list of posts marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my website!
+### Welcome to my website!
 
-I’m Adrian, a Senior Engineer at DNV with over eight years of experience designing offshore wind turbines. My work focuses on offshore wind-related numerical simulations, like hydrodynamic analysis, coupled analysis, and more.
+I’m Adrian, currently a Senior Engineer dealing with numerical analysis of offshore wind at DNV. I am highly interested in numerical analysis and computer graphics.
 
-When I’m not immersed in engineering, I enjoy exploring astronomy, reading books (and manga), and unwinding with video games.
-
-This site is my little corner of the internet—a space to share my thoughts, jot down notes from my recent studies, and maybe, just maybe, create something useful for you. Stick around, and I hope you’ll find something interesting here!
+### Some things about me:
+- 💻 Numerical software families I'm proficient at: [Sesam](https://sesam.dnv.com/), [Bladed](https://www.dnv.com/software/services/bladed/), [OpenFAST](https://www.nrel.gov/wind/nwtc/openfast.html), [Ansys Aqwa](https://www.ansys.com/products/structures/ansys-mechanical), [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview)
+- 🎓 Contributed 5 research articles (3 as primary author) to NEDO's [Hibiki project](https://www.nedo.go.jp/floating/)
+- 🗾 As of January 2025, I have been living in Japan for a grand total of 9 years (0.25 years in Kawasaki, 6.5 years in Osaka, and 2.25 years in Yokohama)
+- 📚 I enjoy reading books and unwinding with video games 🎮

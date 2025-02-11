@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-my-review-of-deep-work-rules-for-focused-success-in-a-distracted-world",
+        },{id: "post-my-review-of-why-we-sleep-the-new-science-of-sleep-and-dreams",
+      
+        title: "My review of Why We Sleep: The New Science of Sleep and Dreams...",
+      
+      description: "This book practically told me to sleep — and honestly, it was right. I should&#39;ve slept more.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/book-review-why-we-sleep/";
+        
+      },
+    },{id: "post-my-review-of-deep-work-rules-for-focused-success-in-a-distracted-world",
       
         title: "My review of Deep Work: Rules for Focused Success in a Distracted World...",
       
@@ -45,7 +56,7 @@ ninja.data = [{
           title: 'Finished reading Deep Work: Rules for Focused Success in a Distracted World by...',
           description: "",
           section: "News",},{id: "news-finished-reading-why-we-sleep-the-new-science-of-sleep-and-dreams-by-matthew-walker",
-          title: 'Finished reading “Why We Sleep: The New Science of Sleep and Dreams” by...',
+          title: 'Finished reading Why We Sleep: The New Science of Sleep and Dreams by...',
           description: "",
           section: "News",},{id: "news-earned-data-structures-and-algorithms-certification-from-gtx",
           title: 'Earned Data Structures and Algorithms certification from GTx',

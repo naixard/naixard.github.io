@@ -20,7 +20,7 @@ ninja.data = [{
       
         title: "A Strange Spinach",
       
-      description: "Last month, my wife brought home a very unusual spinach. It was shorter and wider than the typical spinach you find in Japan. A quick Google search led me to an unexpected realization of my childhood.",
+      description: "Last month, my wife brought home a very unusual spinach. A quick Google search led me to an unexpected realization of the &quot;spinach&quot; I ate in Indonesia.",
       section: "Posts",
       handler: () => {
         

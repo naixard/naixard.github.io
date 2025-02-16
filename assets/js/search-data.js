@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-my-review-of-why-we-sleep-the-new-science-of-sleep-and-dreams",
+        },{id: "post-a-strange-spinach",
+      
+        title: "A Strange Spinach",
+      
+      description: "Last month, my wife brought home a very unusual spinach. It was shorter and wider than the typical spinach you find in Japan. A quick Google search led me to an unexpected realization of my childhood.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/a-strange-spinach/";
+        
+      },
+    },{id: "post-my-review-of-why-we-sleep-the-new-science-of-sleep-and-dreams",
       
         title: "My review of Why We Sleep: The New Science of Sleep and Dreams...",
       

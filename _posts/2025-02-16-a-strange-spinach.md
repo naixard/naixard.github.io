@@ -32,7 +32,7 @@ Now, onto my realization. The “spinach” I ate as a kid in Indonesia wasn’t
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="https://upload.wikimedia.org/wikipedia/commons/4/4d/Amaranthus_palmeri.jpg" class="img-fluid rounded z-depth-1" style="width: 50%;"%}
+        {% include figure.liquid loading="eager" path="https://upload.wikimedia.org/wikipedia/commons/4/4d/Amaranthus_palmeri.jpg" class="img-fluid rounded z-depth-1" width="50%" %}
     </div>
 </div>
 <div class="caption">

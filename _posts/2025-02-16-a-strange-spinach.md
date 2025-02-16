@@ -31,8 +31,8 @@ And the taste? Sweeter, but also more bitter than typical spinach. The texture w
 Now, onto my realization. The “spinach” I ate as a kid in Indonesia wasn’t actually *spinacia oleracea*, the species commonly known as spinach in Japan and many other parts of the world. Instead, **bayam** (what we call spinach in Indonesia) belongs to the **Amaranthus** family (e.g., *Amaranthus dubius*) [^2].
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="https://upload.wikimedia.org/wikipedia/commons/4/4d/Amaranthus_palmeri.jpg" class="img-fluid rounded z-depth-1" width="50%" %}
+    <div class="col-sm-6 d-flex justify-content-center mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="https://upload.wikimedia.org/wikipedia/commons/4/4d/Amaranthus_palmeri.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">

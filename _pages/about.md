@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior Engineer - Offshore Wind Simulation, based in Yokohama<br/>
+subtitle: Senior Engineer - Offshore Wind Simulation, based in Yokohama
 
 profile:
   align: right

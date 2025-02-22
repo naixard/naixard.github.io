@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-news",
+          title: "News",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/index.html";
+          },
         },{id: "post-a-strange-spinach",
       
         title: "A Strange Spinach",
@@ -80,6 +87,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-finished-reading-how-big-things-get-done-by-bent-flyvbjerg-and-dan-gardner",
           title: 'Finished reading “How Big Things Get Done” by Bent Flyvbjerg and Dan Gardner...',
+          description: "",
+          section: "News",},{id: "news-finished-reading-sherlock-holmes-the-sign-of-four-by-sir-arthur-conan-doyle",
+          title: 'Finished reading “Sherlock Holmes The Sign of Four” by Sir Arthur Conan Doyle...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

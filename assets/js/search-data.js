@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/news/index.html";
+            window.location.href = "/news/";
           },
         },{id: "post-a-strange-spinach",
       

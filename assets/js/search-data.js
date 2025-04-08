@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-a-strange-spinach",
+        },{id: "post-metal-gear-solid",
+      
+        title: "Metal Gear Solid",
+      
+      description: "I heard about this PlayStation (PS1) game quite a lot when I was in elementary school. It was great, ahead of its time, I heard. But I never played the game.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/metal-gear-solid-1/";
+        
+      },
+    },{id: "post-a-strange-spinach",
       
         title: "A Strange Spinach",
       

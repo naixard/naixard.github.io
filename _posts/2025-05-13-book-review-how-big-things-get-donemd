@@ -1,0 +1,33 @@
+---
+layout: post
+tags: [book]
+title: "My review of How Big Things Get Done"
+author: Adrian
+description: >
+    This book is a compelling exploration of project management challenges. I gained insight into why megaprojects often fail, run behind schedule, and go over budget — and how to mitigate these issues.
+thumbnail: assets/img/book_how_big_things.jpg
+---
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/book_how_big_things.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    How Big Things Get Done by Bent Flyvbjerg and Dan Gardner
+</div>
+
+**How Big Things Get Done** by Bent Flyvbjerg and Dan Gardner is a compelling exploration of project management challenges. I gained insight into why megaprojects often fail, run behind schedule, and go over budget — and how to mitigate these issues.
+
+If I had to summarize the key points:
+- Most projects go over budget, run over time, and deliver fewer benefits than expected.
+- Think slow, act fast: invest more time in planning so the project can be executed efficiently.
+- Get the goal right, then plan from right to left, always keeping the end objective in sight.
+- Experiment with the plan multiple times — iteration is key.
+- Experience matters: learn from past projects and hire the most experienced project managers.
+- Your project is not unique — benchmark against similar projects to improve forecasting.
+- Team morale is crucial for successful project delivery. Modular projects (e.g., offshore wind farms) often outperform unique, large-scale projects (e.g., nuclear reactors) in staying on schedule and within budget.
+
+A worthwhile read, indeed.
+
+(Working on backlogs...)

@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-my-review-of-how-big-things-get-done",
+        },{id: "post-my-review-of-outliers",
+      
+        title: "My review of Outliers",
+      
+      description: "Outliers by Malcolm Gladwell reminded me of the Veritasium video Is Success Luck or Hard Work? The central idea is that success is a combination of both luck and hard work.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/book-review-outliers/";
+        
+      },
+    },{id: "post-my-review-of-how-big-things-get-done",
       
         title: "My review of How Big Things Get Done",
       
@@ -105,7 +116,7 @@ ninja.data = [{
           title: 'Passed JLPT N1',
           description: "",
           section: "News",},{id: "news-finished-reading-outliers-the-story-of-success-by-malcolm-gladwell",
-          title: 'Finished reading “Outliers: The Story of Success” by Malcolm Gladwell',
+          title: 'Finished reading Outliers: The Story of Success by Malcolm Gladwell',
           description: "",
           section: "News",},{id: "news-finished-reading-how-big-things-get-done-by-bent-flyvbjerg-and-dan-gardner",
           title: 'Finished reading How Big Things Get Done by Bent Flyvbjerg and Dan Gardner...',

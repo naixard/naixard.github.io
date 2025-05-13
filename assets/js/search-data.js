@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-metal-gear-solid",
+        },{id: "post-my-review-of-how-big-things-get-done",
+      
+        title: "My review of How Big Things Get Done",
+      
+      description: "This book is a compelling exploration of project management challenges. I gained insight into why megaprojects often fail, run behind schedule, and go over budget — and how to mitigate these issues.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/book-review-how-big-things-get-done/";
+        
+      },
+    },{id: "post-metal-gear-solid",
       
         title: "Metal Gear Solid",
       
@@ -97,7 +108,7 @@ ninja.data = [{
           title: 'Finished reading “Outliers: The Story of Success” by Malcolm Gladwell',
           description: "",
           section: "News",},{id: "news-finished-reading-how-big-things-get-done-by-bent-flyvbjerg-and-dan-gardner",
-          title: 'Finished reading “How Big Things Get Done” by Bent Flyvbjerg and Dan Gardner...',
+          title: 'Finished reading How Big Things Get Done by Bent Flyvbjerg and Dan Gardner...',
           description: "",
           section: "News",},{id: "news-finished-reading-sherlock-holmes-the-sign-of-four-by-sir-arthur-conan-doyle",
           title: 'Finished reading “Sherlock Holmes The Sign of Four” by Sir Arthur Conan Doyle...',

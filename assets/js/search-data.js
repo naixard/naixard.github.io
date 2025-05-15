@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-my-review-of-outliers",
+        },{id: "post-my-review-of-the-body-keeps-the-score",
+      
+        title: "My review of The Body Keeps the Score",
+      
+      description: "This book is very hard to read without background knowledge in psychology or underlying interests in trauma.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/book-review-the-body-keeps-the-score/";
+        
+      },
+    },{id: "post-my-review-of-outliers",
       
         title: "My review of Outliers",
       
@@ -125,7 +136,7 @@ ninja.data = [{
           title: 'Finished reading “Sherlock Holmes The Sign of Four” by Sir Arthur Conan Doyle...',
           description: "",
           section: "News",},{id: "news-finished-reading-the-body-keep-the-score-by-bessel-van-der-kolk-m-d",
-          title: 'Finished reading “The Body Keep The Score” by Bessel van der Kolk, M.D....',
+          title: 'Finished reading The Body Keep the Score by Bessel van der Kolk, M.D....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-my-review-of-the-body-keeps-the-score",
+        },{id: "post-discovering-classical-music-by-the-kanagawa-philharmonic-orchestra",
+      
+        title: "Discovering Classical Music by the Kanagawa Philharmonic Orchestra",
+      
+      description: "A personal reflection on attending two classical music concerts by the Kanagawa Philharmonic Orchestra. Thoughts on Beethoven, Brahms, Shostakovich, and the surprising role of the conductor.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/classical-concert/";
+        
+      },
+    },{id: "post-my-review-of-the-body-keeps-the-score",
       
         title: "My review of The Body Keeps the Score",
       

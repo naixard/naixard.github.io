@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [general]
+tags: [game]
 title: "Metal Gear Solid"
 author: Adrian
 description: >

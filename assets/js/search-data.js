@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-now",
+          title: "Now",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/now/";
+          },
+        },{id: "nav-blog",
           title: "Blog",
           description: "",
           section: "Navigation",
@@ -149,8 +156,14 @@ ninja.data = [{
           section: "News",},{id: "news-finished-reading-the-body-keep-the-score-by-bessel-van-der-kolk-m-d",
           title: 'Finished reading The Body Keep the Score by Bessel van der Kolk, M.D....',
           description: "",
-          section: "News",},{id: "news-it-s-been-a-while-big-news-is-coming",
-          title: 'It’s been a while. Big news is coming.',
+          section: "News",},{id: "news-i-am-continuing-my-graduate-studies-at-the-university-of-tokyo-department-of-systems-innovation",
+          title: 'I am continuing my graduate studies at the University of Tokyo, Department of...',
+          description: "",
+          section: "News",},{id: "news-finished-reading-marine-biology-a-very-short-introduction-by-philip-v-mladenov",
+          title: 'Finished reading Marine Biology - A Very Short Introduction by Philip V. Mladenov....',
+          description: "",
+          section: "News",},{id: "news-finished-reading-why-nations-fail-by-daron-acemoglu-and-james-a-robinson",
+          title: 'Finished reading Why Nations Fail by Daron Acemoglu and James A. Robinson.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

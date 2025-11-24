@@ -8,10 +8,10 @@ nav_order: 1
 # What I'm doing now
 Updated 24 Nov 2025 from my home in Yokohama.
 
-## Working as engineer in DNV
+## Working as an Engineer in DNV
 I'm currently working full-time at DNV AS Japan Branch as a Customer Success Engineer for Renewables & Ocean Structures, focusing on Sesam (and occasionally Bladed) software. It’s business as usual. If you’re interested in my professional work, please visit my [LinkedIn](https://www.linkedin.com/in/adriankosasih/) profile.
 
-## Graduate study in the University of Tokyo
+## Graduate Study at the University of Tokyo
 I'm pursuing graduate study (currently a Master’s, aiming for a PhD) in hydrodynamics at the [Marine Hydrodynamic Laboratory](https://www.mhl.t.u-tokyo.ac.jp/en/). My research focuses on nonlinear wave forces and hydroelasticity. I started in October 2025, so I’m still adjusting to the balance of work, study, and life.
 
 The classes I'm currently taking:

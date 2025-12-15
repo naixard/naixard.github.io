@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 ## Welcome to my website!
 
-I’m Adrian, currently a Senior Engineer at DNV Japan. I am highly interested in numerical analysis and computer graphics.
+I’m Adrian, currently a Senior Engineer at DNV Japan and graduate student at the University of Tokyo. I am highly interested in numerical analysis and computer graphics.
 <br/><br/>
 ## Some things about me:
 - 💻 Some numerical software I'm proficient at: Sesam, Bladed, OrcaFlex, OpenFAST, Aqwa, Inventor

@@ -21,10 +21,5 @@ The classes I'm currently taking:
 
 ## Reading List
 I'm currently reading:
-- **The Pig That Wants to Be Eaten** by Julian Baggini
 - **Inspired: How to Create Tech Products Customers Love** by Marty Cagan
 - **Prisoners of Geography** by Tim Marshall
-
-## Game List
-I'm currently playing:
-- **Kingdom Come: Deliverance II**

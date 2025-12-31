@@ -5,7 +5,7 @@ permalink: /now/
 nav: true
 nav_order: 1
 ---
-This page shows what I'm doing **now**. Updated 13 Dec 2025 from my home in Yokohama.
+This page shows what I'm doing **now**. Updated 31 Dec 2025 from my home in Yokohama.
 
 ## Working as an Engineer in DNV
 It’s business as usual. If you’re interested in my professional work, please visit my [LinkedIn](https://www.linkedin.com/in/adriankosasih/) profile.
@@ -17,9 +17,8 @@ The classes I'm currently taking:
 - **Advanced Simulation Technology**: Introduction to advanced simulation technologies, with a focus on fluid dynamics using the Finite Volume Method and particle methods.
 - **Technical and Scientific Computing II**: Parallel programming for large-scale scientific computing using MPI on the University of Tokyo’s [Wisteria/BDEC-01 Supercomputer](https://www.cc.u-tokyo.ac.jp/en/supercomputer/wisteria/system.php).
 - **Maritime Big Data and Satellite Utilization**: How ocean data are produced, where to find them, and how to analyze in-situ, satellite, reanalysis, and forecast datasets using maritime big-data servers.
-- **Systems Innovation Project 1 (CD1)**: Basically a reading assignment. I'm assigned to read "Nonlinear Waves and Offshore Structures" by C. H. Kim.
+- **Systems Innovation Project 1 (CD1)**: Basically a reading assignment. I'm reading "Nonlinear Waves and Offshore Structures" by C. H. Kim.
 
 ## Reading List
 I'm currently reading:
-- **Inspired: How to Create Tech Products Customers Love** by Marty Cagan
 - **Prisoners of Geography** by Tim Marshall

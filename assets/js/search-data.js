@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-discovering-classical-music-by-the-kanagawa-philharmonic-orchestra",
+        },{id: "post-year-2025-in-review",
+      
+        title: "Year 2025 in Review",
+      
+      description: "My reflection of 2025.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/year-2025-in-review/";
+        
+      },
+    },{id: "post-discovering-classical-music-by-the-kanagawa-philharmonic-orchestra",
       
         title: "Discovering Classical Music by the Kanagawa Philharmonic Orchestra",
       

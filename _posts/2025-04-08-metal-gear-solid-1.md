@@ -1,5 +1,6 @@
 ---
 layout: post
+giscus_comments: true
 tags: [game]
 title: "Metal Gear Solid"
 author: Adrian

@@ -1,5 +1,6 @@
 ---
 layout: post
+giscus_comments: true
 tags: [book]
 title: "My review of The Body Keeps the Score"
 author: Adrian

@@ -1,5 +1,6 @@
 ---
 layout: post
+giscus_comments: true
 tags: [book]
 title: "My review of How Big Things Get Done"
 author: Adrian

@@ -1,5 +1,6 @@
 ---
 layout: post
+giscus_comments: true
 tags: [general]
 title: "Discovering Classical Music by the Kanagawa Philharmonic Orchestra"
 author: Adrian

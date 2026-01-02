@@ -1,5 +1,6 @@
 ---
 layout: post
+giscus_comments: true
 tags: [general]
 title: "Hello World v3.0"
 author: Adrian

@@ -1,5 +1,6 @@
 ---
 layout: post
+giscus_comments: true
 tags: [book]
 title: "My review of Why We Sleep: The New Science of Sleep and Dreams"
 author: Adrian

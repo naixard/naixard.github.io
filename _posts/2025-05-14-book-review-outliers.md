@@ -1,5 +1,6 @@
 ---
 layout: post
+giscus_comments: true
 tags: [book]
 title: "My review of Outliers"
 author: Adrian

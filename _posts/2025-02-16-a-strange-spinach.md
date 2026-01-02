@@ -1,5 +1,6 @@
 ---
 layout: post
+giscus_comments: true
 tags: [general]
 title: "A Strange Spinach"
 author: Adrian

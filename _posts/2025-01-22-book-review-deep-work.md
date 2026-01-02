@@ -1,5 +1,6 @@
 ---
 layout: post
+giscus_comments: true
 tags: [book]
 title: "My review of Deep Work: Rules for Focused Success in a Distracted World"
 author: Adrian

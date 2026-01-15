@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-year-2025-in-review",
+        },{id: "post-my-review-of-inspired-how-to-create-tech-products-customers-love",
+      
+        title: "My review of Inspired - How to Create Tech Products Customers Love",
+      
+      description: "A book I should have read before trying to contribute to software development.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/book-review-inspired/";
+        
+      },
+    },{id: "post-year-2025-in-review",
       
         title: "Year 2025 in Review",
       

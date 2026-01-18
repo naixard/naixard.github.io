@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-my-review-of-inspired-how-to-create-tech-products-customers-love",
+        },{id: "post-yokohama-night-sky-january-2026",
+      
+        title: "Yokohama Night Sky January 2026",
+      
+      description: "Yokohama is a nice place to live. It has (mini) golf and a great night scape. This weekend, I had an (unplanned) date with my wife.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/yokohama-night-date-jan-2026/";
+        
+      },
+    },{id: "post-my-review-of-inspired-how-to-create-tech-products-customers-love",
       
         title: "My review of Inspired - How to Create Tech Products Customers Love",
       

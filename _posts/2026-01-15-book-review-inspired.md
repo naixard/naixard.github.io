@@ -6,7 +6,7 @@ title: "My review of Inspired - How to Create Tech Products Customers Love"
 author: Adrian
 description: >
     A book I should have read before trying to contribute to software development.
-thumbnail: assets/img/book_the_body_keeps_the_score.jpg
+thumbnail: assets/img/book_inspired.jpg
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

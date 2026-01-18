@@ -6,11 +6,11 @@ title: "Yokohama Night Sky January 2026"
 author: Adrian
 description: >
     Yokohama is a nice place to live. It has (mini) golf and a great night scape. This weekend, I had an (unplanned) date with my wife.
-thumbnail: assets/img/yokohama_night_sky_20260117.jpg
+thumbnail: assets/img/yokohama_night_sky_20260117.png
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/yokohama_night_sky_20260117.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/yokohama_night_sky_20260117.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

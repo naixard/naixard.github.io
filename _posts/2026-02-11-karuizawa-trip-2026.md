@@ -5,7 +5,7 @@ tags: [general]
 title: "Karuizawa Trip Winter 2026"
 author: Adrian
 description: >
-    Karuizawa has two sides: serene nature and modern glamour. Last week, I went to a very old *ryokan* (Japanese inn) in Karuizawa with my wife.
+    Karuizawa has two sides: serene nature and modern glamour. Last week, I went to a very old ryokan (Japanese inn) in Karuizawa with my wife.
 thumbnail: assets/img/karuizawa_1.jpg
 ---
 <div class="row mt-3">
@@ -55,7 +55,7 @@ My second aim here was to visit the *onsen*, but before that, we went outside ag
     </div>
 </div>
 <div class="caption">
-    Andromeda galaxy.
+    Andromeda galaxy (the fuzzy one).
 </div>
 
 Finally, it was time to go to the natural hot spring bath. Luckily, this *ryokan* has a private bath that you can use for free for 40 minutes at a time. Going to a hot spring during winter is the best! Now I understand the feeling of the Japanese monkeys (the ones with red faces) in snowy mountains.

@@ -69,9 +69,9 @@ Finally, it was time to go to the natural hot spring bath. Luckily, this *ryokan
     The private onsen.
 </div>
 
-Morning came, and we ate our breakfast. It was a traditional Japanese breakfast—super tasty and healthy. Afterwards, we checked out and went to visit yet another waterfall, *Shiraito no Taki*. This time, it was more accessible than *Ryugaeshi no Taki*, and therefore we were not alone. Many people were there, but it was still good, although I liked the other one better despite its smaller size. Probably I just like being in nature.
+Morning came, and we ate our breakfast. It was a traditional Japanese breakfast, super tasty and healthy. Afterwards, we checked out and went to visit yet another waterfall, *Shiraito no Taki*. This time, it was more accessible than *Ryugaeshi no Taki*, and therefore we were not alone. Many people were there, but it was still good, although I liked the other one better despite its smaller size. Probably I just like being in nature.
 
-As I got hungry, we bought snacks there. I bought a deer meat bun, while my wife bought an ice cream—in winter, at a temperature of −8°C...
+As I got hungry, we bought snacks there. I bought a deer meat bun, while my wife bought an ice cream, in winter... At a temperature of −8°C...
 
 <div class="row mt-3">
     <div class="col-sm-6 offset-sm-3 mt-3 mt-md-0">

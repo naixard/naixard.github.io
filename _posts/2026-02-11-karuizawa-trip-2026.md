@@ -9,8 +9,8 @@ description: >
 thumbnail: assets/img/karuizawa_1.jpg
 ---
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/karuizawa_1.jpg" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 offset-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/karuizawa_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">

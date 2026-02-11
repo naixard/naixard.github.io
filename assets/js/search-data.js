@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-yokohama-night-sky-january-2026",
+        },{id: "post-karuizawa-trip-winter-2026",
+      
+        title: "Karuizawa Trip Winter 2026",
+      
+      description: "Karuizawa has two sides: serene nature and modern glamour. Last week, I went to a very old *ryokan* (Japanese inn) in Karuizawa with my wife.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/karuizawa-trip-2026/";
+        
+      },
+    },{id: "post-yokohama-night-sky-january-2026",
       
         title: "Yokohama Night Sky January 2026",
       

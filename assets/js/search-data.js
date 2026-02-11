@@ -34,7 +34,7 @@ ninja.data = [{
       
         title: "Karuizawa Trip Winter 2026",
       
-      description: "Karuizawa has two sides: serene nature and modern glamour. Last week, I went to a very old *ryokan* (Japanese inn) in Karuizawa with my wife.",
+      description: "Karuizawa has two sides: serene nature and modern glamour. Last week, I went to a very old ryokan (Japanese inn) in Karuizawa with my wife.",
       section: "Posts",
       handler: () => {
         

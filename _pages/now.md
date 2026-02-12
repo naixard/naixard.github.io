@@ -5,7 +5,7 @@ permalink: /now/
 nav: true
 nav_order: 1
 ---
-This page shows what I'm doing **now**. Updated 31 Dec 2025 from my home in Yokohama.
+This page shows what I'm doing **now**. Updated 12 Feb 2026 from my home in Yokohama.
 
 ## Working as an Engineer in DNV
 It’s business as usual. If you’re interested in my professional work, please visit my [LinkedIn](https://www.linkedin.com/in/adriankosasih/) profile.
@@ -21,4 +21,5 @@ The classes I'm currently taking:
 
 ## Reading List
 I'm currently reading:
-- **Prisoners of Geography** by Tim Marshall
+- **A City on Mars** by Kelly Weinersmith and Zach Weinersmith
+- **On Grand Strategy** by John Lewis Gaddis

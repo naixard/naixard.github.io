@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior Engineer and Aspiring Software Developer - Offshore Wind Simulation
+subtitle: Senior Engineer and Aspiring Computational Scientist - Offshore Wind Simulation
 
 profile:
   align: right

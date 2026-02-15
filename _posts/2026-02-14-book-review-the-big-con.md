@@ -6,7 +6,7 @@ title: "My thoughts on The Big Con: How the Consulting Industry Weakens our Busi
 author: Adrian
 description: >
     I've just finished an eye-opening book, The Big Con by Mariana Mazzucato and Rosie Collington. It argues that management consulting firms have weakened governments and corporations around the world in pursuit of profit.
-thumbnail: assets/img/book_inspired.jpg
+thumbnail: assets/img/book_the_big_con.jpg
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

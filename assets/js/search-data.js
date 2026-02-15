@@ -232,8 +232,8 @@ ninja.data = [{
           section: "News",},{id: "news-comment-is-now-enabled-on-all-blog-posts-using-giscus",
           title: 'Comment is now enabled on all blog posts using Giscus!',
           description: "",
-          section: "News",},{id: "news-finished-reading-the-big-con-how-the-consulting-industry-weakens-our-businesses-infantilizes-our-governments-and-warps-our-economies-by-mariana-mazzucato-and-rosie-collington",
-          title: 'Finished reading The Big Con: How the Consulting Industry Weakens our Businesses, Infantilizes...',
+          section: "News",},{id: "news-finished-reading-the-big-con-by-mariana-mazzucato-and-rosie-collington",
+          title: 'Finished reading The Big Con by Mariana Mazzucato and Rosie Collington.',
           description: "",
           section: "News",},{
         id: 'social-linkedin',

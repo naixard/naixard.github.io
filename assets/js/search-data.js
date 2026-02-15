@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-karuizawa-trip-winter-2026",
+        },{id: "post-my-thoughts-on-the-big-con-how-the-consulting-industry-weakens-our-businesses-infantilizes-our-governments-and-warps-our-economies",
+      
+        title: "My thoughts on The Big Con: How the Consulting Industry Weakens our Businesses,...",
+      
+      description: "I&#39;ve just finished an eye-opening book, The Big Con by Mariana Mazzucato and Rosie Collington. It argues that management consulting firms have weakened governments and corporations around the world in pursuit of profit.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/book-review-the-big-con/";
+        
+      },
+    },{id: "post-karuizawa-trip-winter-2026",
       
         title: "Karuizawa Trip Winter 2026",
       
@@ -221,52 +232,10 @@ ninja.data = [{
           section: "News",},{id: "news-comment-is-now-enabled-on-all-blog-posts-using-giscus",
           title: 'Comment is now enabled on all blog posts using Giscus!',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{
+          section: "News",},{id: "news-finished-reading-the-big-con-how-the-consulting-industry-weakens-our-businesses-infantilizes-our-governments-and-warps-our-economies-by-mariana-mazzucato-and-rosie-collington",
+          title: 'Finished reading The Big Con: How the Consulting Industry Weakens our Businesses, Infantilizes...',
+          description: "",
+          section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',

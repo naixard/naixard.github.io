@@ -14,7 +14,7 @@ thumbnail: assets/img/book_inspired.jpg
     </div>
 </div>
 <div class="caption">
-    The Big Con: How the Consulting Industry Weakens our Businesses, Infantilizes our Governments and Warps.
+    The Big Con: How the Consulting Industry Weakens our Businesses, Infantilizes our Governments and Warps our Economies.
 </div>
 
 I've just finished an eye-opening book, **The Big Con** by Mariana Mazzucato and Rosie Collington. The book argues that management consulting firms have weakened governments and corporations around the world. While many of the book's points are compelling, the consultants I met during my internship at BCG Jakarta genuinely wanted to make things better.

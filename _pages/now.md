@@ -29,7 +29,7 @@ I'm currently reading:
 ## Other stuffs - vibe coding
 Lately, I've been trying to use Claude Code to vibe code. I'm more on the skeptic side of using AI to code, but I found that it is actually making me more productive. I can delegate the tedious or unimportant things (for me, that would be the webdev, for example) and just focus on the most important stuff, such as verifying the outputs of the code or the main algorithm (for me, that would be numerical analysis). 
 
-I just finished a fun project using this: https://www.adriankosasih.com/wave-calculator/
+I just finished a fun project by vibe coding: [Wave Calculator](https://www.adriankosasih.com/wave-calculator/)
 It is a static web app to generate, plot and export ocean wave energy spectra.
 
 <div class="row mt-3">

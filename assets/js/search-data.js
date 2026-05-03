@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-my-thoughts-on-the-big-con-how-the-consulting-industry-weakens-our-businesses-infantilizes-our-governments-and-warps-our-economies",
+        },{id: "post-my-thoughts-on-a-city-on-mars-can-we-settle-space-should-we-settle-space-and-have-we-really-thought-this-through",
+      
+        title: "My thoughts on A City on Mars - Can We Settle space, should...",
+      
+      description: "Space settlements might be way further than what we thought! I am taking a week-long vacation to go back to Indonesia, and as usual, long-haul flight is a very good chance to read books undisturbed. Today, I managed to finish a rather amusing book about what I love: space.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/book-review-a-city-on-mars/";
+        
+      },
+    },{id: "post-my-thoughts-on-the-big-con-how-the-consulting-industry-weakens-our-businesses-infantilizes-our-governments-and-warps-our-economies",
       
         title: "My thoughts on The Big Con: How the Consulting Industry Weakens our Businesses,...",
       
@@ -234,6 +245,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-finished-reading-the-big-con-by-mariana-mazzucato-and-rosie-collington",
           title: 'Finished reading The Big Con by Mariana Mazzucato and Rosie Collington.',
+          description: "",
+          section: "News",},{id: "news-fun-project-deployed-wave-calculator",
+          title: 'Fun project deployed: Wave Calculator.',
+          description: "",
+          section: "News",},{id: "news-late-post-finished-reading-a-city-on-mars-by-kelly-and-zach-weinersmith",
+          title: '(Late post) Finished reading A City on Mars by Kelly and Zach Weinersmith....',
           description: "",
           section: "News",},{
         id: 'social-linkedin',

@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-my-thoughts-on-a-city-on-mars-can-we-settle-space-should-we-settle-space-and-have-we-really-thought-this-through",
+        },{id: "post-my-thoughts-on-on-grand-strategy-by-john-lewis-gaddis",
+      
+        title: "My thoughts on On Grand Strategy by John Lewis Gaddis",
+      
+      description: "This book is a bit different from what I usually read; I picked it from the bookstore shelf because I was drawn by its title and my interest in grand strategy. My lasting impression while reading this book is that it requires some pre-reading...",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/book-review-on-grand-strategy/";
+        
+      },
+    },{id: "post-my-thoughts-on-a-city-on-mars-can-we-settle-space-should-we-settle-space-and-have-we-really-thought-this-through",
       
         title: "My thoughts on A City on Mars - Can We Settle space, should...",
       
@@ -251,6 +262,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-late-post-finished-reading-a-city-on-mars-by-kelly-and-zach-weinersmith",
           title: '(Late post) Finished reading A City on Mars by Kelly and Zach Weinersmith....',
+          description: "",
+          section: "News",},{id: "news-finished-reading-on-grand-strategy-by-kelly-and-zach-weinersmith",
+          title: 'Finished reading On Grand Strategy by Kelly and Zach Weinersmith.',
           description: "",
           section: "News",},{
         id: 'social-linkedin',

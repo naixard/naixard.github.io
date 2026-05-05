@@ -263,8 +263,8 @@ ninja.data = [{
           section: "News",},{id: "news-late-post-finished-reading-a-city-on-mars-by-kelly-and-zach-weinersmith",
           title: '(Late post) Finished reading A City on Mars by Kelly and Zach Weinersmith....',
           description: "",
-          section: "News",},{id: "news-finished-reading-on-grand-strategy-by-kelly-and-zach-weinersmith",
-          title: 'Finished reading On Grand Strategy by Kelly and Zach Weinersmith.',
+          section: "News",},{id: "news-finished-reading-on-grand-strategy-by-john-lewis-gaddis",
+          title: 'Finished reading On Grand Strategy by John Lewis Gaddis.',
           description: "",
           section: "News",},{
         id: 'social-linkedin',

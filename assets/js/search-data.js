@@ -266,6 +266,12 @@ ninja.data = [{
           section: "News",},{id: "news-finished-reading-on-grand-strategy-by-john-lewis-gaddis",
           title: 'Finished reading On Grand Strategy by John Lewis Gaddis.',
           description: "",
+          section: "News",},{id: "news-finished-reading-the-jakarta-method-by-vincent-bevins",
+          title: 'Finished reading The Jakarta Method by Vincent Bevins.',
+          description: "",
+          section: "News",},{id: "news-finished-reading-animal-farm-by-george-orwell",
+          title: 'Finished reading Animal Farm by George Orwell.',
+          description: "",
           section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',

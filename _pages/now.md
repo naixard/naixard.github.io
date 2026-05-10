@@ -5,7 +5,7 @@ permalink: /now/
 nav: true
 nav_order: 1
 ---
-This page shows what I'm doing **now**. Updated 03 May 2026 from my home in Yokohama.
+This page shows what I'm doing **now**. Updated 10 May 2026 from my home in Yokohama.
 
 ## Working as an engineer in DNV
 It’s business as usual. If you’re interested in my professional work, please visit my [LinkedIn](https://www.linkedin.com/in/adriankosasih/) profile.
@@ -23,7 +23,7 @@ The classes I'm currently taking:
 
 ## Reading list
 I'm currently reading:
-- **On Grand Strategy** by John Lewis Gaddis
+- **Prisoners of Geography** by Tim Marshall
 - **The Jakarta Method** by Vincent Bevins
 
 ## Other stuffs - vibe coding

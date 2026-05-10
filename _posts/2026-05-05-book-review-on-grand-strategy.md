@@ -32,5 +32,5 @@ Okay, enough about the prerequisites, what about the contents? I would say it wa
 
 One other thing I learned was that the US had parties other than the Republicans and Democrats: the Whigs. I also learned for the first time that it was the Republican Party that abolished slavery (I had thought it was the Democrats.. Sorry, they didn't teach me US Civil War history in school).
 
-Do I recommend this book? **No**.
-The chapters are too disconnected from one another, the language is too difficult, it requires a great deal of pre-reading, and most importantly, I didn't learn very much about grand strategy itself.
+Do I recommend this book? **Not really**.
+The language is unnecessarily difficult, it requires a great deal of pre-reading (this was on me), and most importantly, I didn't learn very much about grand strategy itself (or more specifically, it wasn't what I expected). If you are interested in this topic and have already read Tolstoy or Clausewitz, it can be an interesting read.
